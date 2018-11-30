@@ -5,3 +5,10 @@ The giftastic project utilizes a gif API to produce a series of gifs related to 
 # Motivation:
 
 The project was inspired by the desire to practice the utilization of an API and deal with the data produced. 
+
+# Tech/framework used
+
+Giphy API
+Javascript/JQuery
+HTML
+CSS
